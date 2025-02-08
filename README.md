@@ -11,6 +11,10 @@ Supports those image formats:
 - PNG
 - GIF
 
+## Pre-requisities
+
+- [Installed Go](https://go.dev/doc/install)
+
 ## How to use
 
 Just put all your images to `./images` directory and run:
